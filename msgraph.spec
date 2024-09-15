@@ -6,7 +6,7 @@
 
 Name:		msgraph
 Version:	0.2.3
-Release:	1
+Release:	2
 Summary:	Library to access MS Graph API for Microsoft 365
 Group:		System/Libraries
 License:	LGPL-3.0-or-later
