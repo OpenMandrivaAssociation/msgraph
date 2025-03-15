@@ -1,4 +1,4 @@
-%define api	0
+%define api	1
 %define major 1
 %define libname		%mklibname msgraph 
 %define girname		%mklibname msgraph-gir
