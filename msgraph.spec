@@ -81,6 +81,6 @@ Header files for development with %{name}.
 %files -n %{develname}
 %{_includedir}/msg/
 %{_libdir}/lib%{name}-%{api}.so
-#{_libdir}/pkgconfig/msgraph-1.pc
+%{_libdir}/pkgconfig/msgraph-1.pc
 %{_datadir}/gir-1.0/Msg-%{api}.gir
 %{_docdir}/msgraph-1/
