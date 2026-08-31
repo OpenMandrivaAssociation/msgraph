@@ -5,7 +5,7 @@
 %define develname	%mklibname msgraph -d
 
 Name:		msgraph
-Version:	0.3.4
+Version:	0.3.5
 Release:	1
 Summary:	Library to access MS Graph API for Microsoft 365
 Group:		System/Libraries
